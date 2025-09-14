@@ -1,4 +1,4 @@
-package pregunta1;
+package pregunta01;
 
 public class Calculadora {
 
